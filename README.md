@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nadin tamang</h1>
-<h3 align="center">A passionate</h3>
+<h3 align="center">Aspiring SE</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=menacexnadin&label=Profile%20views&color=0e75b6&style=flat" alt="menacexnadin" /> </p>
 
