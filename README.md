@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nadin Tamang</h1>
-<h3 align="center">A passionate AI/ML enthusiast from Nepal</h3>
+<h3 align="center">A Passionate AI/ML enthusiast from Nepal</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=menacexnadin&label=Profile%20views&color=0e75b6&style=flat" alt="menacexnadin" /> </p>
 
