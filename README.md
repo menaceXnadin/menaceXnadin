@@ -20,7 +20,7 @@ class Developer:
         self.name = "Nadin Tamang"
         self.location = "Kathmandu, Nepal 🇳🇵"
         self.website = "nadintamang.com.np"
-        self.languages = ["Python", "TypeScript", "Dart"]
+        self.languages = ["Python"]
         self.currently_learning = ["Machine Learning", "AI", "Web Automation"]
         self.interests = ["Discord Bots", "Stock Market", "Automation"]
         
