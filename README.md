@@ -103,17 +103,6 @@ print(me.current_focus())
 </div>
 
 ---
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-  
-**Pull Shark 🦈** • **YOLO 🎯**
-
-*Earned through contributions and commits*
-
-</div>
-
 ---
 
 ## 🐍 Contribution Snake
