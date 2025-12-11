@@ -73,7 +73,6 @@ print(me.current_focus())
 
 ### Automation & Web Scraping
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-<!--![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)-->
 
 ### Development Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -87,13 +86,12 @@ print(me.current_focus())
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=menaceXnadin&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=menaceXnadin&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+  <img height="180em" src="https://github-readme-stats-gules-five-86.vercel.app/api?username=menaceXnadin&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
+  <img height="180em" src="https://github-readme-stats-gules-five-86.vercel.app/api/top-langs/?username=menaceXnadin&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
 </div>
 
 <div align="center">
-   <img src="https://streak-stats.demolab.com/?user=menaceXnadin&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" /> 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=menaceXnadin&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" /> 
+  <img src="https://streak-stats.demolab.com/?user=menaceXnadin&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" /> 
 </div>
 
 ---
