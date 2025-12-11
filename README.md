@@ -104,10 +104,14 @@ print(me.current_focus())
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=menaceXnadin&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
+  
+**Pull Shark 🦈** • **YOLO 🎯**
+
+*Earned through contributions and commits*
+
 </div>
 
 ---
