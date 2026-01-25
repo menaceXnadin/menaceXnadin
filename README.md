@@ -12,42 +12,6 @@
 
 ---
 
-## 🚀 About Me
-
-```python
-class Developer:
-    def __init__(self):
-        self.name = "Nadin Tamang"
-        self.location = "Kathmandu, Nepal 🇳🇵"
-        self.website = "nadintamang.com.np"
-        self.languages = ["Python"]
-        self.currently_learning = ["Machine Learning", "AI", "Web Automation"]
-        self.interests = ["Discord Bots", "Stock Market", "Automation"]
-        
-    def get_tech_stack(self):
-        return {
-            "ai_ml": [
-                "TensorFlow", "PyTorch", "scikit-learn", 
-                "Hugging Face", "LangChain",
-                "Pandas", "NumPy"
-            ],
-            "backend": ["Django", "Streamlit"],
-            "frontend": ["TypeScript", "HTML/CSS"],
-            "mobile": ["Flutter (Dart)"],
-            "automation": ["Discord.py", "Beautiful Soup", "Playwright"],
-            "tools": ["Git", "Jupyter", "VS Code"]
-        }
-    
-    def current_focus(self):
-        return "Learning by building projects and experimenting with AI/ML 🎯"
-
-me = Developer()
-print(me.current_focus())
-# Output: Learning by building projects and experimenting with AI/ML 🎯
-```
-
----
-
 ## 🛠️ Tech Stack
 
 <div align="center">
