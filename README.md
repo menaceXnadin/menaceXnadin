@@ -43,6 +43,7 @@
 
 ### Automation & Web Scraping
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Beautiful Soup](https://img.shields.io/badge/Beautiful%20Soup-3490DC?style=for-the-badge&logo=python&logoColor=white)
 
 ### Development Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
