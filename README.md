@@ -23,8 +23,6 @@
 
 ---
 
-## 📊 GitHub Statistics
-
 <div align="center">
   <img height="180em" src="https://github-readme-stats-gules-five-86.vercel.app/api?username=menaceXnadin&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
   <img height="180em" src="https://github-readme-stats-gules-five-86.vercel.app/api/top-langs/?username=menaceXnadin&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
